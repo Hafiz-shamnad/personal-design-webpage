@@ -1,0 +1,141 @@
+/**************************TAG-PROP**************************/
+h1{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #1e4c4e;
+}
+h2{
+
+    font-family: 'DM Sans', sans-serif;
+    color: #1e4c4e;
+
+}
+h3{
+    font-family: 'Cabin', sans-serif;
+    font-size: 110%;
+    position: absolute;
+    padding-left: 45.3%;
+    margin: 0px;
+    top: 43%;
+}
+h4{
+    padding-top:0px ;
+    font-family: 'DM Sans', sans-serif;
+    color: #0f949b;
+}
+.top-h4{
+    font-size: 150%;
+    padding-top:30px ;
+    margin-bottom: 0px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+h5{
+    font-family: 'Overpass', sans-serif;
+    font-size: 135%;
+    color: #044246;
+}
+h6{
+    font-family: 'Cabin', sans-serif;
+    color: #044246;
+    font-size: 75%;
+    margin-bottom: 0px;
+    padding-top: 25px;
+}
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: #E3FDFD;
+    font-family: 'DM Sans', sans-serif;
+}
+hr{
+    width: 155px;
+    border-top: 4px dotted #073638ea;
+}
+
+/*********************** DIV-CLASS **************************/
+
+.top-container{
+    padding-top: 25px;
+    padding-bottom: 10;
+    background-color: #71C9CE;
+
+}
+.middle-container{
+    position: relative;
+    margin: 0px;
+}
+.bottum-container{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.footer{
+    background-color: #0fb4bd;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    margin-top: 37px;
+
+}
+.msg-btn{
+    background-color: #044246;
+    padding: 12px;
+    border-radius: 15px;
+    font-family: 'DM Sans', sans-serif;
+    color: #E3FDFD;
+    text-decoration: none;
+    font-style: unset;
+}
+.foot-link{
+    color: #044246;
+    text-decoration: none;
+    font-family: 'DM Sans', sans-serif;
+    font-size: large;
+ 
+}
+
+/********************** IMG-CLASS *****************************/
+
+.hafiz-icon{
+        height: auto;
+        width: 50px;
+        position: absolute;
+        left: 20px;
+}
+.mountain{
+    height:auto ;
+    width: 50%;
+    margin-right: 150px;
+    margin-bottom: 0px;
+
+}
+.cloud{
+    padding-left: 65%;
+    padding-top: 8%;
+    height: auto;
+    width: 140px;
+}
+.cloud-2{
+    padding-bottom: 20%;
+    height: auto;
+    width: 190px;
+}
+/***********************LIST************************/
+li{
+    list-style: none;
+    display: inline-block;
+    position: absolute;
+    left: 10%;
+    margin-top: 15px;
+    padding: 0px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+li2{
+    list-style: none;
+    display: inline-block;
+    position: absolute;
+    right: 10%;
+    margin-top: 15px;
+    padding: 0px;
+    font-family: 'DM Sans', sans-serif;
+}
